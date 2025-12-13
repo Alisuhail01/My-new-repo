@@ -1,0 +1,12 @@
+
+apple
+ball
+cat dog
+elephant
+mouse
+bat
+cricket
+laptop sample data
+
+
+
